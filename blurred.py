@@ -27,6 +27,11 @@ plt.gray()
 plt.subplot(1,3,1)
 
 
+plt.imshow(img)
+
+
+
+
 
 
 plt.show()
