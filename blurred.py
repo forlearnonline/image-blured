@@ -25,7 +25,7 @@ plt.figure()
 plt.gray()
 
 
-
+plt.subplot(1,3,1)
 
 
 
