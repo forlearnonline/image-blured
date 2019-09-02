@@ -17,3 +17,7 @@ def blurred(img):
 
 img = plt.imread('dc_metro.png') i8
 blur_img = blurred(img)
+
+for i in range(30):
+    blur_img = blurred(30)
+
