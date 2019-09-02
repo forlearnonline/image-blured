@@ -14,3 +14,5 @@ def blurred(img):
                 + img[1:-1 ,2:  ]  # right
                 ) / 5.0
     return img_slice
+
+img = plt.imread('dc_metro.png') #reading image
