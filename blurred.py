@@ -15,5 +15,5 @@ def blurred(img):
                 ) / 5.0
     return img_slice
 
-img = plt.imread('dc_metro.png') #reading image
+img = plt.imread('dc_metro.png') i8
 blur_img = blurred(img)
