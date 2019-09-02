@@ -1,5 +1,5 @@
 #blurred the image
-
+%matplotlib notebook
 
 import matplotlib.pyplot as plt
 
@@ -22,3 +22,12 @@ for i in range(30):
     blur_img = blurred(30)
 
 plt.figure()
+
+
+
+
+
+
+
+plt.show()
+
