@@ -22,7 +22,7 @@ for i in range(30):
     blur_img = blurred(30)
 
 plt.figure()
-
+plt.gray()
 
 
 
