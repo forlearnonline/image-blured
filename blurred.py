@@ -24,7 +24,7 @@ for i in range(30):
 plt.figure()
 plt.gray()
 
-
+plt.subplot(1,3,1)
 
 
 
